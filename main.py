@@ -3,3 +3,5 @@
 from module_test import imprime_algo
 
 print(imprime_algo())
+
+print("mudei algo")
